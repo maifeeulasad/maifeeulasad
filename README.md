@@ -4,6 +4,29 @@ Hello, I'm Maifee Ul Asad. If you have made this far, I will make an wild guess 
 
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you a link, rest can be found from there - http://maifeeulasad.github.io/.
 
-Now here is my history I guess :
+### Connect with me:
 
+[<img align="left" alt="maifeeulasad.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="maifeeulasad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="maifeeulasad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="maifeeulasad | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][sof]
+[<img align="left" alt="maifeeulasad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="maifeeulasad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+Now here is my history I guess :
 [TODO]
+
+
+[website]: http://maifeeulasad.github.io/
+[twitter]: https://twitter.com/Maifeeulasad
+[youtube]: https://www.youtube.com/channel/UCYvxpsCWZOl7nn9h-F17x4Q
+[instagram]: https://www.instagram.com/maifee007/
+[linkedin]: https://www.linkedin.com/in/maifee-ul-asad/
+[sof]: https://stackoverflow.com/users/10305444/maifee-ul-asad?tab=profile
