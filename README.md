@@ -3,7 +3,6 @@
 Hello, I'm Maifee Ul Asad. If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't. 
 
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
-
 <!--
 ### Tools and Technologies
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -37,8 +36,10 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 ### My stats :
 
-![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
-
+![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad) 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
+-->
 BTW, these stats are based all public contribution. To know about my private contributaion, you have to check my YouTube or LinkedIn.
 
 
