@@ -23,6 +23,27 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 <br>
 -->
 
+
+### Hackathons List :
+
+| Hackathon | Place | Role | Remark |
+| :---: | :---: | :---: | :---: |
+| IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon | 
+| National Hackathon on Frontier Technologies 2020 | Bangladesh | Hacker | Better luck next time, I guess ?!? | 
+| EDU Engineering Day | Chittagong | Hacker | Champion 🚩 | 
+
+<br/>
+
+### My public stats on GitHub  :
+
+![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad) 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
+-->
+BTW, these stats are based all public contribution. To know about my private contributaion, you have to check my YouTube or LinkedIn.
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="maifeeulasad.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,25 +54,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 [<img align="left" alt="maifeeulasad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-### Hackathons List
-
-
-| Hackathon | Place | Role | Remark |
-| :---: | :---: | :---: | :---: |
-| IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon | 
-| National Hackathon on Frontier Technologies 2020 | Bangladesh | Hacker | Better luck next time, I guess ?!? | 
-| EDU Engineering Day | Chittagong | Hacker | Champion 🚩 | 
-
-
-### My public stats on GitHub  :
-
-![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad) 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
--->
-BTW, these stats are based all public contribution. To know about my private contributaion, you have to check my YouTube or LinkedIn.
-
 
 [website]: http://maifeeulasad.github.io/
 [twitter]: https://twitter.com/Maifeeulasad
