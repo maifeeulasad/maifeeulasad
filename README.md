@@ -34,7 +34,17 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 <br />
 
-### My stats :
+### Hackathons List
+
+
+| Hackathon | Place | Role | Remark |
+| :---: | :---: | :---: | :---: |
+| IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon | 
+| National Hackathon on Frontier Technologies 2020 | Bangladesh | Hacker | Better luck next time, I guess ?!? | 
+| EDU Engineering Day | Chittagong | Hacker | Champion 🚩 | 
+
+
+### My public stats on GitHub  :
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad) 
 <!--
