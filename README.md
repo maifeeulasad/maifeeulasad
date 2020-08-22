@@ -1,6 +1,9 @@
-# Maifee Ul Asad
+<h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! I'm Maifee, Maifee Ul Asad.</h2>
+<p align="center">
+  <a href="https://maifeeulasad.github.io/">Blog</a> •
+</p>
 
-Hello, I'm Maifee Ul Asad. If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't. 
+If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't. 
 
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
 
