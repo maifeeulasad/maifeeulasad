@@ -25,7 +25,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  Spring, Spring Boot,Python,LaTex,Unity,Unreal,Cry-Engine,Python,...
+  Spring, Spring Boot,Python,LaTex,Unity,Unreal,Cry-Engine,Python,React-Native...
 </p>
 <br>
 
@@ -36,7 +36,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 | :---: | :---: | :---: | :---: |
 | IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon | 
 | National Hackathon on Frontier Technologies 2020 | Bangladesh | Hacker | Better luck next time, I guess ?!? | 
-| EDU Engineering Day | Chittagong | Hacker | Champion 🚩 | 
+| EDU Engineering Day 2020 | Chittagong | Hacker | Champion 🚩 | 
 
 <br/>
 
