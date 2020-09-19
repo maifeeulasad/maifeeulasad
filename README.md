@@ -41,10 +41,10 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 <br/>
 
 ### Online Judges :
-| Site | Rank | Solved | Reference |
-| :---: | :---: | :---: | :---: |
-| UVa | 2774 | 303 | https://uhunt.onlinejudge.org/id/822640 |
-| URI | 747 | 379 | https://www.urionlinejudge.com.br/judge/en/profile/142984 |
+| Site | Rank | Solved | Tried | Reference |
+| :---: | :---: | :---: | :---: | :---: |
+| UVa | 2774 | 303 | 419 | https://uhunt.onlinejudge.org/id/822640 |
+| URI | 747 | 379 | 379+40 | https://www.urionlinejudge.com.br/judge/en/profile/142984 |
 
 <br/>
 
