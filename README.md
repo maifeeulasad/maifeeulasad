@@ -25,7 +25,14 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  Spring, Spring Boot,Python,LaTex,Unity,Unreal,Cry-Engine,Python,React-Native...
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Latex" src="https://img.shields.io/badge/-Latex-43853d?style=flat-square&logo=Latex&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-43853d?style=flat-square&logo=Unity&logoColor=white" />
+  <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-43853d?style=flat-square&logo=Unreal&logoColor=white" />
+  <img alt="Cry-Engine" src="https://img.shields.io/badge/-Cry_Engine-43853d?style=flat-square&logo=Cry_Engine&logoColor=white" />
+  <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-43853d?style=flat-square&logo=React_Native&logoColor=white" />
 </p>
 <br>
 
