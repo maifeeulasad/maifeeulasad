@@ -33,6 +33,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
   <img alt="Cry-Engine" src="https://img.shields.io/badge/-Cry_Engine-222222?style=flat-square&logo=Cry_Engine&logoColor=white" />
   <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" />
+  <img alt="Flex" src="https://img.shields.io/badge/-flex-050505?style=flat-square&logo=Flex&logoColor=white" />
+  <img alt="Bison(YACC)" src="https://img.shields.io/badge/-bison-050505?style=flat-square&logo=Bison&logoColor=white" />
+  <img alt="Antlr" src="https://img.shields.io/badge/-antlr-050505?style=flat-square&logo=Antlr&logoColor=white" />
 </p>
 <br>
 
