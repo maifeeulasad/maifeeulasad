@@ -39,6 +39,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" />
+  <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Swing&logoColor=white" />
+  <img alt="AWT" src="https://img.shields.io/badge/-AWT-5382a1?style=flat-square&logo=AWT&logoColor=white" />
+  <img alt="SWT" src="https://img.shields.io/badge/-SWT-5382a1?style=flat-square&logo=SWT&logoColor=white" />
 </p>
 <br>
 
