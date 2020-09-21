@@ -8,37 +8,43 @@ If you have made this far, I will make an wild guess - you already know me, righ
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
 
 ### Things I'm familiar with :
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+ - Android : 
+   <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" />
+   <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" />
+   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
+ - Front-end : 
+   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+ - Back-end : 
+   <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
+   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />
+ - Game-development : 
+   <img alt="Unity" src="https://img.shields.io/badge/-Unity-050505?style=flat-square&logo=Unity&logoColor=white" />
+   <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
+   <img alt="Cry-Engine" src="https://img.shields.io/badge/-Cry_Engine-222222?style=flat-square&logo=Cry_Engine&logoColor=white" />
+   <img alt="Blender" src="https://img.shields.io/badge/-Blender-222222?style=flat-square&logo=Blender&logoColor=white" />
+ - Compiler Construction (Lexer, Parser):
+   <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" />
+   <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
+   <img alt="Antlr" src="https://img.shields.io/badge/-Antlr-050505?style=flat-square&logo=Antlr&logoColor=white" />
+<p> 
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
-  <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-050505?style=flat-square&logo=Unity&logoColor=white" />
-  <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
-  <img alt="Cry-Engine" src="https://img.shields.io/badge/-Cry_Engine-222222?style=flat-square&logo=Cry_Engine&logoColor=white" />
-  <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" />
-  <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" />
-  <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
-  <img alt="Antlr" src="https://img.shields.io/badge/-Antlr-050505?style=flat-square&logo=Antlr&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" />
   <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Swing&logoColor=white" />
   <img alt="AWT" src="https://img.shields.io/badge/-AWT-5382a1?style=flat-square&logo=AWT&logoColor=white" />
   <img alt="SWT" src="https://img.shields.io/badge/-SWT-5382a1?style=flat-square&logo=SWT&logoColor=white" />
@@ -46,7 +52,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-5382a1?style=flat-square&logo=C_Sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-._Net-5382a1?style=flat-square&logo=.Net&logoColor=white" />
-</p>
+   </p>
 <br>
 
 
