@@ -61,6 +61,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt=".NET" src="https://img.shields.io/badge/-._Net-5382a1?style=flat-square&logo=.Net&logoColor=white" />
   <img alt="H2" src="https://img.shields.io/badge/-H2-007ACC?style=flat-square&logo=H2&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
    </p>
 <br>
 
