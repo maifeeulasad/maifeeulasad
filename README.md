@@ -51,6 +51,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 <p> 
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-430098?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
