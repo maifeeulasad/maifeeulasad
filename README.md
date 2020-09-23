@@ -33,11 +33,13 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
  - Compiler Construction (Lexer, Parser):
    <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" />
    <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
-   <img alt="Antlr" src="https://img.shields.io/badge/-Antlr-050505?style=flat-square&logo=Antlr&logoColor=white" />
+   <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" />
+   <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" />
  - Package Publishing :
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-   <img alt="pip" src="https://img.shields.io/badge/-pip-f8c256?style=flat-square&logo=pip&logoColor=white" />
+   <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" />
  - Desktop Application :
+ - Database :
  - Robotics :
  - Raw:
  - Machine Learning
