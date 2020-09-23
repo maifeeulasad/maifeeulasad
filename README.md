@@ -87,7 +87,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 <br/>
 
-### Online Judges :
+### Online Judges : (2020.09.09)
 | Site | Rank | Solved | Tried | Reference |
 | :---: | :---: | :---: | :---: | :---: |
 | UVa | 2774 | 303 | 419 | https://uhunt.onlinejudge.org/id/822640 |
