@@ -39,6 +39,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
  - Package Publishing :
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
    <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" />
+ - Type Setting :
+   <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
+   <img alt="MDJS" src="https://img.shields.io/badge/-MDJS-050505?style=flat-square&logo=MDJS&logoColor=white" />
  - Desktop Application :
  - Database :
  - Robotics :
@@ -55,7 +58,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Swing&logoColor=white" />
   <img alt="AWT" src="https://img.shields.io/badge/-AWT-5382a1?style=flat-square&logo=AWT&logoColor=white" />
