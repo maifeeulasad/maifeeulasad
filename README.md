@@ -41,6 +41,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" />
  - Type Setting :
    <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
+   <img alt="MD" src="https://img.shields.io/badge/-MD-050505?style=flat-square&logo=MD&logoColor=white" />
    <img alt="MDJS" src="https://img.shields.io/badge/-MDJS-050505?style=flat-square&logo=MDJS&logoColor=white" />
  - Desktop Application :
  - Database :
