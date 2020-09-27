@@ -105,7 +105,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 -->
 
 
-### My public stats on GitHub  :
+> My public stats on GitHub :
+<details><summary>:zap: My public stats on GitHub :</summary>
 <!--
 ![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad)
 -->
@@ -115,7 +116,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
 -->
 BTW, these stats are based all public contribution. To know about my private contributaion, you have to check my YouTube or LinkedIn.
-
+   </details>
+</br>
 
 
 ### Connect with me:
