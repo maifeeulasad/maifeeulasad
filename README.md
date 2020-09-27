@@ -105,7 +105,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 -->
 
 
-<details><summary>:zap: My public stats on GitHub :</summary>
+<details><summary>My public stats on GitHub :</summary>
 <!--
 ![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad)
 -->
