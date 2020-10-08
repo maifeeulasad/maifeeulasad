@@ -112,7 +112,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 ![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad)
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maifeeulasad" alt="maifeeulasad" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad&layout=compact&hide=html" alt="maifeeulasad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad&layout=compact" alt="maifeeulasad" /></p>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
 -->
