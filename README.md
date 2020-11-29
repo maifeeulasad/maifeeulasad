@@ -82,6 +82,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
   <img alt="JPA" src="https://img.shields.io/badge/-JPA-050505?style=flat-square&logo=JPA&logoColor=white" />
   <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41cd52?style=flat-square&logo=Qt&logoColor=white" />
    </p>
 <br>
 
