@@ -14,7 +14,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
    <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" />
    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
- - Front-end : 
+ - Web : 
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
