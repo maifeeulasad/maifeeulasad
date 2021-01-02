@@ -78,7 +78,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
  - Data Analysis : 
    <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
-   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-5382a1?style=flat-square&logo=Pandas&logoColor=white" />  
+   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-5382a1?style=flat-square&logo=Pandas&logoColor=white" />
    <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
  - Version Control : 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
