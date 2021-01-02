@@ -65,7 +65,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" />
    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" />
  - Raw:
- - Machine Learning
+ - Machine Learning : 
+   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
+   <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
  - Data Analysis
  - Version Control : 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -77,8 +79,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
   <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
