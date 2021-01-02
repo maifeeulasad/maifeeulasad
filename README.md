@@ -25,6 +25,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
    <img alt="React-D3" src="https://img.shields.io/badge/-React_D3-F9A03C?style=flat-square&logo=React-d3&logoColor=white" />
    <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
+   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
  - Back-end : 
    <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
    <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />  
@@ -76,15 +77,16 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
  - Version Control : 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ - Virtualization :
+   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
+ - Blockchain : 
+   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
 <p> 
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
    </p>
 <br>
 
