@@ -27,7 +27,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
  - Back-end : 
    <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
-   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />
+   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />  
+   <img alt="JPA" src="https://img.shields.io/badge/-JPA-050505?style=flat-square&logo=JPA&logoColor=white" />
  - Game-development : 
    <img alt="Unity" src="https://img.shields.io/badge/-Unity-050505?style=flat-square&logo=Unity&logoColor=white" />
    <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
@@ -68,7 +69,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
  - Machine Learning : 
    <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
    <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
- - Data Analysis
+ - Data Analysis : 
+   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-5382a1?style=flat-square&logo=Pandas&logoColor=white" />
  - Version Control : 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <p> 
@@ -82,7 +84,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
-  <img alt="JPA" src="https://img.shields.io/badge/-JPA-050505?style=flat-square&logo=JPA&logoColor=white" />
   <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
    </p>
 <br>
