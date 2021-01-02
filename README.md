@@ -46,35 +46,37 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="MD" src="https://img.shields.io/badge/-MD-050505?style=flat-square&logo=MD&logoColor=white" />
    <img alt="MDJS" src="https://img.shields.io/badge/-MDJS-050505?style=flat-square&logo=MDJS&logoColor=white" />
  - Desktop Application :
+   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41cd52?style=flat-square&logo=Qt&logoColor=white" />
+   <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" />
+   <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" />
+   <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-5382a1?style=flat-square&logo=C_Sharp&logoColor=white" />
+   <img alt=".NET" src="https://img.shields.io/badge/-._Net-5382a1?style=flat-square&logo=.Net&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
+   <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Swing&logoColor=white" />
+   <img alt="AWT" src="https://img.shields.io/badge/-AWT-5382a1?style=flat-square&logo=AWT&logoColor=white" />
+   <img alt="SWT" src="https://img.shields.io/badge/-SWT-5382a1?style=flat-square&logo=SWT&logoColor=white" />
  - Database :
+   <img alt="H2" src="https://img.shields.io/badge/-H2-007ACC?style=flat-square&logo=H2&logoColor=white" />
+   <img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" />
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-430098?style=flat-square&logo=MySQL&logoColor=white" />
+   <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" />
+   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
  - Robotics :
+   <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" />
+   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" />
  - Raw:
  - Machine Learning
  - Data Analysis
- - Version Control
+ - Version Control : 
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <p> 
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-430098?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Swing&logoColor=white" />
-  <img alt="AWT" src="https://img.shields.io/badge/-AWT-5382a1?style=flat-square&logo=AWT&logoColor=white" />
-  <img alt="SWT" src="https://img.shields.io/badge/-SWT-5382a1?style=flat-square&logo=SWT&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" />
-  <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-5382a1?style=flat-square&logo=C_Sharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/-._Net-5382a1?style=flat-square&logo=.Net&logoColor=white" />
-  <img alt="H2" src="https://img.shields.io/badge/-H2-007ACC?style=flat-square&logo=H2&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
   <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
@@ -82,8 +84,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
   <img alt="JPA" src="https://img.shields.io/badge/-JPA-050505?style=flat-square&logo=JPA&logoColor=white" />
   <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
-  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41cd52?style=flat-square&logo=Qt&logoColor=white" />
-  <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" />
    </p>
 <br>
 
