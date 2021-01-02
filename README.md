@@ -60,6 +60,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="H2" src="https://img.shields.io/badge/-H2-007ACC?style=flat-square&logo=H2&logoColor=white" />
    <img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-430098?style=flat-square&logo=MySQL&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
    <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" />
    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
  - Robotics :
@@ -71,7 +72,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
  - Data Analysis : 
    <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
-   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-5382a1?style=flat-square&logo=Pandas&logoColor=white" />
+   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-5382a1?style=flat-square&logo=Pandas&logoColor=white" />  
+   <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
  - Version Control : 
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <p> 
@@ -79,12 +81,10 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
-  <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
    </p>
 <br>
 
