@@ -33,6 +33,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="JPA" src="https://img.shields.io/badge/-JPA-050505?style=flat-square&logo=JPA&logoColor=white" />
    <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
  - Game-development : 
    <img alt="Unity" src="https://img.shields.io/badge/-Unity-050505?style=flat-square&logo=Unity&logoColor=white" />
    <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
@@ -85,8 +87,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
  - Blockchain : 
    <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
 <p> 
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
    </p>
 <br>
