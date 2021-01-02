@@ -93,7 +93,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 | Hackathon | Place | Role | Remark |
 | :---: | :---: | :---: | :---: |
-| IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon | 
+| IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon (5th position) | 
 | National Hackathon on Frontier Technologies 2020 | Bangladesh | Hacker | Better luck next time, I guess ?!? | 
 | EDU Engineering Day 2020 | Chittagong | Hacker | Champion 🚩 | 
 
