@@ -26,11 +26,13 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    <img alt="React-D3" src="https://img.shields.io/badge/-React_D3-F9A03C?style=flat-square&logo=React-d3&logoColor=white" />
    <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  - Back-end : 
    <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
    <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" /> 
    <img alt="JPA" src="https://img.shields.io/badge/-JPA-050505?style=flat-square&logo=JPA&logoColor=white" />
    <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
+   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  - Game-development : 
    <img alt="Unity" src="https://img.shields.io/badge/-Unity-050505?style=flat-square&logo=Unity&logoColor=white" />
    <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
@@ -86,7 +88,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    </p>
 <br>
 
