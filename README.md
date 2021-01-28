@@ -47,6 +47,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" />
  - Package Management/Publishing :
    - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+     - https://www.npmjs.com/~maifeeulasad
    - <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" />
  - Type Setting :
    - <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
