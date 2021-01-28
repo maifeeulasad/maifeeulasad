@@ -41,10 +41,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="Cry-Engine" src="https://img.shields.io/badge/-Cry_Engine-222222?style=flat-square&logo=Cry_Engine&logoColor=white" />
    - <img alt="Blender" src="https://img.shields.io/badge/-Blender-222222?style=flat-square&logo=Blender&logoColor=white" />
  - Compiler Construction (Lexer, Parser):
-   - <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" />
-   - <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
-   - <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" />
-   - <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" />
+   - <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" /> + <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
+   - <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" /> / <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" />
  - Package Management/Publishing :
    - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
      - https://www.npmjs.com/~maifeeulasad
