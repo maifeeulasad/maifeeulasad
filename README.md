@@ -9,9 +9,11 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 ### Things I'm familiar with :
  - Android : 
-   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" />
-   - <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
-   - <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
+   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> + <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> + <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
+     - Smartphone based Digital Attendance System : https://github.com/maifeeulasad/SDAS
+     - Activity monitor : https://github.com/maifeeulasad/Overwatch
+     - Yet another launcher : https://github.com/maifeeulasad/MLauncher
+     - Peer to Peer chat : https://github.com/maifeeulasad/Chirkut
    - <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" />
    - <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
  - Web : 
