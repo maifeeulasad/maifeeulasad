@@ -47,9 +47,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" /> + <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
    - <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" /> / <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" />
  - Package Management/Publishing :
-   - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+   - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> : 
      - https://www.npmjs.com/~maifeeulasad
-   - <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" />
+   - <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" /> : 
      - https://pypi.org/user/maifeeulasad/
  - Type Setting :
    - <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
