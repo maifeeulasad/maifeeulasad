@@ -73,7 +73,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" />
    - <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
  - Robotics :
-   - <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" />
+   - <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" /> : 
+     - AVR calculator : https://github.com/maifeeulasad/AVR-calculator 
    - <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" /> : 
      - Obstacle Avoiding Robot : https://github.com/maifeeulasad/obstacle_avoiding_robot
      - Clock : https://github.com/maifeeulasad/Arduino-Clock
