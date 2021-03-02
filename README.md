@@ -15,6 +15,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
      - Yet another launcher : https://github.com/maifeeulasad/MLauncher
      - Peer to Peer chat : https://github.com/maifeeulasad/Chirkut
      - Android Keyboard (Bengali): https://github.com/maifeeulasad/unmukto
+     - Volume Service : https://github.com/maifeeulasad/android-volume-service
+     - Wallpaper Mananger(for CU) : https://github.com/maifeeulasad/CU-nostalgic-wallpaper
+     - Word Puzzle Solver Suggestion : https://github.com/maifeeulasad/Word-Puzzle-Solver---Suggestions
    - <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" />
    - <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
  - Web : 
