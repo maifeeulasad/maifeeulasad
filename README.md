@@ -26,12 +26,12 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
      - Library Template : https://github.com/maifeeulasad/react-mua-create-library
      - Geo Heatmap : https://github.com/maifeeulasad/react-mua-geo-heatmap
      - Error Page Library : https://github.com/maifeeulasad/react-mua-error
-     - Gallery Library : https://github.com/maifeeulasad/react-mua-gallery
      - Signup Library : https://github.com/maifeeulasad/react-mua-signup 
      - Login Library : https://github.com/maifeeulasad/react-mua-login
      - Map Library : https://github.com/maifeeulasad/react-mua-map
      - Geo Heat-Map Library : https://github.com/maifeeulasad/react-mua-geo-heatmap
-   - <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+   - <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> + <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> : 
+     - Gallery Library : https://github.com/maifeeulasad/react-mua-gallery
    - <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
    - <img alt="AntD" src="https://img.shields.io/badge/-AntD-45b8d8?style=flat-square&logo=Antd&logoColor=white" />
    - <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
