@@ -32,6 +32,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
      - Geo Heat-Map Library : https://github.com/maifeeulasad/react-mua-geo-heatmap
    - <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> + <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> : 
      - Gallery Library : https://github.com/maifeeulasad/react-mua-gallery
+   - <img alt="Angular" src="https://img.shields.io/badge/-Angular-c3002f?style=flat-square&logo=Angular&logoColor=white" /> + <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> : 
+     - A news application : https://github.com/maifeeulasad/news-update
    - <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
    - <img alt="AntD" src="https://img.shields.io/badge/-AntD-45b8d8?style=flat-square&logo=Antd&logoColor=white" />
    - <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -42,8 +44,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
    - <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
    - <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   - <img alt="Angular" src="https://img.shields.io/badge/-Angular-c3002f?style=flat-square&logo=Angular&logoColor=white" /> + <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> : 
-     - A news application : https://github.com/maifeeulasad/news-update
  - Back-end : 
    - <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
    - <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" /> 
