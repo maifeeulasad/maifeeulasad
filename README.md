@@ -9,7 +9,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 ### Things I'm familiar with :
  - Android : 
-   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> + <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> + <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
+   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> + <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" /> + <img alt="TensorFlow Lite" src="https://img.shields.io/badge/-TensorFlowLite-1978a9?style=flat-square&logo=tflite&logoColor=white" /> :
+     - Name Gender Classification: https://github.com/maifeeulasad/Geneder-Prediction-Name-Android
+   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> + <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> + <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" /> :
      - Smartphone based Digital Attendance System : https://github.com/maifeeulasad/SDAS
      - Activity monitor : https://github.com/maifeeulasad/Overwatch
      - Yet another launcher : https://github.com/maifeeulasad/MLauncher
