@@ -148,9 +148,12 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 <details><summary><b>My public stats on GitHub :</b></summary>
 <!--
 ![My stats](https://github-readme-stats.vercel.app/api?username=maifeeulasad)
+
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maifeeulasad" alt="maifeeulasad" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad&layout=compact" alt="maifeeulasad" /></p>
+   
+[![trophy](https://github-profile-trophy.vercel.app/?username=maifeeulasad)](https://github.com/maifeeulasad/maifeeulasad)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maifeeulasad)
 -->
