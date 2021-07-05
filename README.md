@@ -63,6 +63,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="Unreal" src="https://img.shields.io/badge/-Unreal-00fafa?style=flat-square&logo=Unreal&logoColor=white" />
    - <img alt="Cry-Engine" src="https://img.shields.io/badge/-Cry_Engine-222222?style=flat-square&logo=Cry_Engine&logoColor=white" />
    - <img alt="Blender" src="https://img.shields.io/badge/-Blender-222222?style=flat-square&logo=Blender&logoColor=white" />
+   - <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" /> + <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" /> :
+     - Tic Tac Toe: https://github.com/maifeeulasad/tic_tac_toe
+     - Give mouse a cheese(Mazy solving): https://github.com/maifeeulasad/give_cheese_to_mouse
  - Compiler Construction (Lexer, Parser):
    - <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" /> + <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
    - <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" /> + <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" /> :
