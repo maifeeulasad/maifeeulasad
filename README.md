@@ -92,8 +92,8 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="Qt" src="https://img.shields.io/badge/-Qt-41cd52?style=flat-square&logo=Qt&logoColor=white" />
    - <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" />
    - <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" />
-     - Desktop Logger: https://github.com/maifeeulasad/MLogger-.Net 
    - <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-5382a1?style=flat-square&logo=C_Sharp&logoColor=white" />
+     - Desktop Logger: https://github.com/maifeeulasad/MLogger-.Net 
    - <img alt=".NET" src="https://img.shields.io/badge/-._Net-5382a1?style=flat-square&logo=.Net&logoColor=white" />
    - <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> + <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Swing&logoColor=white" /> + <img alt="AWT" src="https://img.shields.io/badge/-AWT-5382a1?style=flat-square&logo=AWT&logoColor=white" /> + <img alt="SWT" src="https://img.shields.io/badge/-SWT-5382a1?style=flat-square&logo=SWT&logoColor=white" /> :
      - More than a text editor : https://github.com/maifeeulasad/Plain-Editor
