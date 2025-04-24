@@ -56,6 +56,27 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       <td><a href="https://github.com/maifeeulasad/Free-Cart-Client">Shopping cart client</a></td>
     </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Chrome Browser / Brave Browser / Chromium based Extension</th>
+    </tr>
+  </thead>
+
+
+
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Chrome browser" src="https://img.shields.io/badge/-Chrome-fede27?style=flat-square&logo=chrome&logoColor=white" /> + <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://github.com/maifeeulasad/Chrome-SaveAndSleep">Extension to save and reload all pages</a><br/>
+      <a href="https://github.com/maifeeulasad/chrome-mua-tab">Replace default new-page image</a><br/>
+      <a href="https://github.com/maifeeulasad/Night-Mode-Chrome">Dark Mode</a>
+      </td>
+    </tr>
+  </tbody>
+
 </table>
 
  - Web : 
@@ -157,10 +178,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
    - <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
  - Blockchain : 
    - <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
- - <img alt="Chrome browser" src="https://img.shields.io/badge/-Chrome-fede27?style=flat-square&logo=chrome&logoColor=white" /> + <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> :
-   - An extension to save and reload all pages: https://github.com/maifeeulasad/Chrome-SaveAndSleep
-   - To replace default new-page image: https://github.com/maifeeulasad/chrome-mua-tab
-   - Dark Mode: https://github.com/maifeeulasad/Night-Mode-Chrome
 <br>
 
 
