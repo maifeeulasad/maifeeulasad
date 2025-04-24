@@ -75,6 +75,36 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
     </tr>
   </tbody>
 
+
+
+  <thead>
+    <tr>
+      <th colspan="2">Compiler Construction (Lexer, Parser, IR)</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" /> + <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://github.com/maifeeulasad/guishap">Guishap(A Bengali programming language)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" /> + <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://github.com/maifeeulasad/JSON2MUAON">A custom parser `(JSON->x)`</a><br/>
+      <a href="https://github.com/maifeeulasad/MUAON2JSON">Another custom parser `(x->JSON)`</a><br/>
+      </td>
+    </tr>
+  </tbody>
+
+
+
 </table>
 
 - Web :
@@ -122,7 +152,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   - <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" /> + <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" /> :
     - Tic Tac Toe: <https://github.com/maifeeulasad/tic_tac_toe>
     - Give mouse a cheese(Maze solving): <https://github.com/maifeeulasad/give_cheese_to_mouse>
-- Compiler Construction (Lexer, Parser):
   - <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" /> + <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" /> :
     - Guishap(A Bengali programming language) : <https://github.com/maifeeulasad/guishap>
   - <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" /> + <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" /> :
