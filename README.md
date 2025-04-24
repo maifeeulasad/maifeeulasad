@@ -12,23 +12,52 @@ If you have made this far, I will make an wild guess - you already know me, righ
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
 
 ### Things I'm familiar with :
- - Android : 
-   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> + <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" /> + <img alt="TensorFlow Lite" src="https://img.shields.io/badge/-TensorFlowLite-fc6c04?style=flat-square&logo=tflite&logoColor=white" /> :
-     - Name Gender Classification: https://github.com/maifeeulasad/Geneder-Prediction-Name-Android
-   - <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> + <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> + <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" /> :
-     - Backup System: https://github.com/maifeeulasad/Backup-by-Maifee
-     - Smartphone based Digital Attendance System : https://github.com/maifeeulasad/SDAS
-     - Activity monitor : https://github.com/maifeeulasad/Overwatch
-     - Yet another launcher : https://github.com/maifeeulasad/MLauncher
-     - Peer to Peer chat : https://github.com/maifeeulasad/Chirkut
-     - Android Keyboard (Bengali): https://github.com/maifeeulasad/unmukto
-     - Volume Service : https://github.com/maifeeulasad/android-volume-service
-     - Wallpaper Mananger(for CU) : https://github.com/maifeeulasad/CU-nostalgic-wallpaper
-     - Word Puzzle Solver Suggestion : https://github.com/maifeeulasad/Word-Puzzle-Solver-Suggestions
-     - Notification Logger : https://github.com/maifeeulasad/roti-android
-     - Online File(Study Material) Sharing: https://github.com/maifeeulasad/CSE516-CShare
-   - <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" /> + <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> :
-     - Shopping cart client : https://github.com/maifeeulasad/Free-Cart-Client 
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Android</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> +
+        <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" /> +
+        <img alt="TensorFlow Lite" src="https://img.shields.io/badge/-TensorFlowLite-fc6c04?style=flat-square&logo=tflite&logoColor=white" />
+      </td>
+      <td><a href="https://github.com/maifeeulasad/Geneder-Prediction-Name-Android">Name Gender Classification</a></td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" /> +
+        <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> +
+        <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1978a9?style=flat-square&logo=Kotlin&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/Backup-by-Maifee">Backup System</a><br/>
+        <a href="https://github.com/maifeeulasad/SDAS">Smartphone based Digital Attendance System</a><br/>
+        <a href="https://github.com/maifeeulasad/Overwatch">Activity monitor</a><br/>
+        <a href="https://github.com/maifeeulasad/MLauncher">Yet another launcher</a><br/>
+        <a href="https://github.com/maifeeulasad/Chirkut">Peer to Peer chat</a><br/>
+        <a href="https://github.com/maifeeulasad/unmukto">Android Keyboard (Bengali)</a><br/>
+        <a href="https://github.com/maifeeulasad/android-volume-service">Volume Service</a><br/>
+        <a href="https://github.com/maifeeulasad/CU-nostalgic-wallpaper">Wallpaper Mananger (for CU)</a><br/>
+        <a href="https://github.com/maifeeulasad/Word-Puzzle-Solver-Suggestions">Word Puzzle Solver Suggestion</a><br/>
+        <a href="https://github.com/maifeeulasad/roti-android">Notification Logger</a><br/>
+        <a href="https://github.com/maifeeulasad/CSE516-CShare">Online File(Study Material) Sharing</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=React&logoColor=white" /> +
+        <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      </td>
+      <td><a href="https://github.com/maifeeulasad/Free-Cart-Client">Shopping cart client</a></td>
+    </tr>
+  </tbody>
+</table>
+
  - Web : 
    - <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> : 
      - Library Template : https://github.com/maifeeulasad/react-mua-create-library
