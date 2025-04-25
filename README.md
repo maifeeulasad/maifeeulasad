@@ -105,6 +105,37 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 
 
+  <thead>
+    <tr>
+      <th colspan="2">Embedded Programming / Robotics</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://github.com/maifeeulasad/AVR-calculator">AVR calculator</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://github.com/maifeeulasad/obstacle_avoiding_robot">Obstacle Avoiding Robot</a><br/>
+      <a href="https://github.com/maifeeulasad/Arduino-Clock">LCD Clock</a><br/>
+      <a href="https://github.com/maifeeulasad/Arduino-Seven-Segment">Seven Segment Library</a><br/>
+      <a href="https://github.com/maifeeulasad/Mouse-with-arduino-and-python">Mouse Control with Arduino</a><br/>
+      <a href="https://github.com/maifeeulasad/Mouse-3D">3D Mouse (move some object in Unity3D)</a><br/>
+      <a href="https://github.com/maifeeulasad/Arduino-Hand-Sanitizer">Automated Hand Sanitizer</a><br/>
+      </td>
+    </tr>
+  </tbody>
+
+
 </table>
 
 - Web :
