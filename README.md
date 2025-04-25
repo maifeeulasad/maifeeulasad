@@ -183,11 +183,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   - <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" /> + <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" /> :
     - Tic Tac Toe: <https://github.com/maifeeulasad/tic_tac_toe>
     - Give mouse a cheese(Maze solving): <https://github.com/maifeeulasad/give_cheese_to_mouse>
-  - <img alt="Flex" src="https://img.shields.io/badge/-Flex-050505?style=flat-square&logo=Flex&logoColor=white" /> + <img alt="Bison(YACC)" src="https://img.shields.io/badge/-Bison-050505?style=flat-square&logo=Bison&logoColor=white" /> :
-    - Guishap(A Bengali programming language) : <https://github.com/maifeeulasad/guishap>
-  - <img alt="Antlr" src="https://img.shields.io/badge/-ANTLR-DD4814?style=flat-square&logo=ANTLR&logoColor=white" /> + <img alt="Antlr 4" src="https://img.shields.io/badge/-ANTLR4-DD4814?style=flat-square&logo=ANTLR4&logoColor=white" /> :
-    - A custom parser `(JSON->x)` : <https://github.com/maifeeulasad/JSON2MUAON>
-    - Another custom parser `(x->JSON)` : <https://github.com/maifeeulasad/MUAON2JSON>
 - Package Management/Publishing :
   - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> :
     - <https://www.npmjs.com/~maifeeulasad>
@@ -212,16 +207,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   - <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   - <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" />
   - <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-- Robotics :
-  - <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" /> :
-    - AVR calculator : <https://github.com/maifeeulasad/AVR-calculator>
-  - <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" /> :
-    - Obstacle Avoiding Robot : <https://github.com/maifeeulasad/obstacle_avoiding_robot>
-    - Clock : <https://github.com/maifeeulasad/Arduino-Clock>
-    - Seven Segment Library : <https://github.com/maifeeulasad/Arduino-Seven-Segment>
-    - Mouse Control with Arduino : <https://github.com/maifeeulasad/Mouse-with-arduino-and-python>
-    - 3D Mouse (move some object in Unity3D) : <https://github.com/maifeeulasad/Mouse-3D>
-    - Automated Hand Sanitizer: <https://github.com/maifeeulasad/Arduino-Hand-Sanitizer>
+
 - Raw:
 - Machine Learning :
   - <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
