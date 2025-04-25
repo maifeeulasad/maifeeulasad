@@ -142,6 +142,33 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   </tbody>
 
 
+
+
+  <thead>
+    <tr>
+      <th colspan="2">Package Management/Publishing</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://www.npmjs.com/~maifeeulasad">Packages published in NPM</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" />
+      </td>
+      <td>
+      <a href="https://pypi.org/user/maifeeulasad/">Packages published in PyPi</a><br/>
+      </td>
+    </tr>
+  </tbody>
+
 </table>
 
 - Web :
@@ -189,11 +216,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
   - <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" /> + <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" /> :
     - Tic Tac Toe: <https://github.com/maifeeulasad/tic_tac_toe>
     - Give mouse a cheese(Maze solving): <https://github.com/maifeeulasad/give_cheese_to_mouse>
-- Package Management/Publishing :
-  - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> :
-    - <https://www.npmjs.com/~maifeeulasad>
-  - <img alt="pip" src="https://img.shields.io/badge/-PIP-f8c256?style=flat-square&logo=pip&logoColor=white" /> :
-    - <https://pypi.org/user/maifeeulasad/>
+
 - Type Setting :
   - <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
   - <img alt="MD" src="https://img.shields.io/badge/-MD-050505?style=flat-square&logo=MD&logoColor=white" />
