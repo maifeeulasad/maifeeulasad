@@ -13,11 +13,11 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 
 ### Things I'm familiar with
 
-<style>
+<!-- <style>
     table {
         width: 100%;
     }
-</style>
+</style> -->
 
 <table>
   <thead>
