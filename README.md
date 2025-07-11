@@ -81,8 +81,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
     </tr>
   </tbody>
 
-
-
   <thead>
     <tr>
       <th colspan="2">Compiler Construction (Lexer, Parser, IR)</th>
@@ -108,8 +106,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       </td>
     </tr>
   </tbody>
-
-
 
   <thead>
     <tr>
@@ -140,9 +136,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       </td>
     </tr>
   </tbody>
-
-
-
 
   <thead>
     <tr>
@@ -505,8 +498,6 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
     </tr>
   </tbody>
 </table>
-
-
 
 </table>
 
