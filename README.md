@@ -50,8 +50,11 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <a href="https://github.com/maifeeulasad/android-volume-service">Volume Service</a><br/>
         <a href="https://github.com/maifeeulasad/CU-nostalgic-wallpaper">Wallpaper Mananger (for CU)</a><br/>
         <a href="https://github.com/maifeeulasad/Word-Puzzle-Solver-Suggestions">Word Puzzle Solver Suggestion</a><br/>
-        <a href="https://github.com/maifeeulasad/roti-android">Notification Logger</a><br/>
-        <a href="https://github.com/maifeeulasad/CSE516-CShare">Online File(Study Material) Sharing</a>
+        <a href="https://github.com/maifeeulasad/notification-logger-android">Notification Logger</a><br/>
+        <a href="https://github.com/maifeeulasad/CSE516-CShare">Online File(Study Material) Sharing</a><br/>
+        <a href="https://github.com/maifeeulasad/prayer-tracker-islamic">Islamic Prayer Tracker</a><br/>
+        <a href="https://github.com/maifeeulasad/Book-Manager">Book Manager</a><br/>
+        <a href="https://github.com/maifeeulasad/WhatApp">WhatsApp Clone</a>
       </td>
     </tr>
     <tr>
@@ -76,7 +79,30 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       <td>
       <a href="https://github.com/maifeeulasad/Chrome-SaveAndSleep">Extension to save and reload all pages</a><br/>
       <a href="https://github.com/maifeeulasad/chrome-mua-tab">Replace default new-page image</a><br/>
-      <a href="https://github.com/maifeeulasad/Night-Mode-Chrome">Dark Mode</a>
+      <a href="https://github.com/maifeeulasad/Night-Mode-Chrome">Dark Mode</a><br/>
+      <a href="https://github.com/maifeeulasad/chrome-sfw">Safe Environment Extension</a>
+      </td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="2">Artificial Intelligence / Machine Learning</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" /> + 
+        <img alt="LLM" src="https://img.shields.io/badge/-LLM-050505?style=flat-square&logo=OpenAI&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/gedit-localllama">AI in gedit (Local LLM)</a><br/>
+        <a href="https://github.com/maifeeulasad/local-search">LLM enabled local search</a><br/>
+        <a href="https://github.com/maifeeulasad/LocalLLaMA">LocalLLaMA Archive</a><br/>
+        <a href="https://github.com/maifeeulasad/Mobile-OMR">Mobile OMR (Computer Vision)</a><br/>
+        <a href="https://github.com/maifeeulasad/Anti-Sexual-Assault-App">Environment Tension Analysis</a><br/>
       </td>
     </tr>
   </tbody>
@@ -149,7 +175,12 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
       </td>
       <td>
-      <a href="https://www.npmjs.com/~maifeeulasad">Packages published in NPM</a>
+      <a href="https://www.npmjs.com/~maifeeulasad">Packages published in NPM</a><br/>
+      <a href="https://github.com/maifeeulasad/to-spreadsheet">Spreadsheet Creation Package</a><br/>
+      <a href="https://github.com/maifeeulasad/node-thumbnail-generator">Thumbnail Generator</a><br/>
+      <a href="https://github.com/maifeeulasad/ctrlc-node-pid">Process Control by PID</a><br/>
+      <a href="https://github.com/maifeeulasad/codeforces-api-node">Codeforces API Wrapper</a><br/>
+      <a href="https://github.com/maifeeulasad/os-check">OS Detection Library</a>
       </td>
     </tr>
     <tr>
@@ -166,6 +197,9 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       </td>
       <td>
       <a href="https://hub.docker.com/u/maifeeulasad">Packages published in Docker</a><br/>
+      <a href="https://github.com/maifeeulasad/docker-compose-collection">Docker Compose Collection</a><br/>
+      <a href="https://github.com/maifeeulasad/opencv-alpine">OpenCV Alpine Image</a><br/>
+      <a href="https://github.com/maifeeulasad/node-fileutils">File Utilities Image</a>
       </td>
     </tr>
   </tbody>
@@ -254,6 +288,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       <td>
         <a href="https://github.com/maifeeulasad/react-mua-gallery">Gallery Library</a><br/>
         <a href="https://github.com/maifeeulasad/Messenger-meme">Messenger like meme making</a>
+        <a href="https://github.com/maifeeulasad/stance-analyzer-fe">Stance Analyzer Frontend</a>
       </td>
     </tr>
     <tr>
@@ -296,7 +331,29 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
       </td>
       <td>
         <a href="https://github.com/maifeeulasad/Backup-by-Maifee-Server">Backup by Maifee Server</a><br/>
-        <a href="https://github.com/maifeeulasad/SDAS-heroku/">SDAS Server</a>
+        <a href="https://github.com/maifeeulasad/SDAS-heroku/">SDAS Server</a><br/>
+        <a href="https://github.com/maifeeulasad/j-minidb">Java In-Memory Database</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> +
+        <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/Local-File-Server">Local File Server</a><br/>
+        <a href="https://github.com/maifeeulasad/proxy-server">Proxy Server</a><br/>
+        <a href="https://github.com/maifeeulasad/cpp-file-server">C++ File Server</a><br/>
+        <a href="https://github.com/maifeeulasad/nestjs-nextjs">NestJS + NextJS App</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" /> +
+        <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/drf-inventory-management">DRF Inventory Management</a>
       </td>
     </tr>
     <tr>
@@ -325,7 +382,22 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <a href="https://github.com/maifeeulasad/Mouse-3D">A 3D mouse</a><br/>
         <a href="https://github.com/maifeeulasad/Slicer2D-Unity">Pickup loading game</a><br/>
         <a href="https://github.com/maifeeulasad/MUA-terrain-unity3d">Random 3D terrain</a><br/>
-        <a href="https://github.com/maifeeulasad/Jumping-Jampak">A programmer running</a>
+        <a href="https://github.com/maifeeulasad/Jumping-Jampak">A programmer running</a><br/>
+        <a href="https://github.com/maifeeulasad/Rapid-Roll">Rapid Roll Game</a><br/>
+        <a href="https://github.com/maifeeulasad/Snake-Unity2D">Snake Game</a><br/>
+        <a href="https://github.com/maifeeulasad/Simple-Shooter">Simple Shooter</a><br/>
+        <a href="https://github.com/maifeeulasad/Unity3d-Trail">Unity Trail Effects</a><br/>
+        <a href="https://github.com/maifeeulasad/Unity-Dynamic-Prefab">Dynamic Prefab System</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" /> +
+        <img alt="Swing" src="https://img.shields.io/badge/-Swing-5382a1?style=flat-square&logo=Java&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/TRex-Runner">T-Rex Runner (Chrome Dino)</a>
+      </td>
       </td>
     </tr>
     <tr>
@@ -383,7 +455,11 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <img alt=".NET" src="https://img.shields.io/badge/-._Net-5382a1?style=flat-square&logo=.Net&logoColor=white" />
       </td>
       <td>
-        <a href="https://github.com/maifeeulasad/MLogger-.Net">Desktop Logger</a>
+        <a href="https://github.com/maifeeulasad/MLogger-.Net">Desktop Logger</a><br/>
+        <a href="https://github.com/maifeeulasad/Mr-Current">Battery Monitor</a><br/>
+        <a href="https://github.com/maifeeulasad/SIGINT-APP">Process Control Library</a><br/>
+        <a href="https://github.com/maifeeulasad/Duplicate-File-Finder-Console">Duplicate File Finder</a><br/>
+        <a href="https://github.com/maifeeulasad/Submarine-Screen-Lock">Screen Lock Utility</a>
       </td>
     </tr>
     <tr>
@@ -394,7 +470,22 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <img alt="SWT" src="https://img.shields.io/badge/-SWT-5382a1?style=flat-square&logo=SWT&logoColor=white" />
       </td>
       <td>
-        <a href="https://github.com/maifeeulasad/Plain-Editor">More than a text editor</a>
+        <a href="https://github.com/maifeeulasad/Plain-Editor">More than a text editor</a><br/>
+        <a href="https://github.com/maifeeulasad/Enigma-Emulator">Enigma Encryptor/Decryptor</a><br/>
+        <a href="https://github.com/maifeeulasad/Joss-Paint">Image Editor</a><br/>
+        <a href="https://github.com/maifeeulasad/Joss-Viewer">File Viewer</a><br/>
+        <a href="https://github.com/maifeeulasad/Desktop-File-Organizer">File Organizer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/open-code-electron">Code Editor</a><br/>
+        <a href="https://github.com/maifeeulasad/Cream">Screen Recorder</a><br/>
+        <a href="https://github.com/maifeeulasad/Screen-Recorder">Another Screen Recorder</a><br/>
+        <a href="https://github.com/maifeeulasad/DesktopScreenRecorder">Desktop Recorder</a>
       </td>
     </tr>
   </tbody>
@@ -414,7 +505,53 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-430098?style=flat-square&logo=NoSQL&logoColor=white" /> +
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
       </td>
-      <td></td>
+      <td>
+        <a href="https://github.com/maifeeulasad/unified-db">Unified Database Interface</a><br/>
+        <a href="https://github.com/maifeeulasad/j-minidb">Java In-Memory Database</a>
+      </td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="2">Utilities & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/ytdl-mua">YouTube Downloader</a><br/>
+        <a href="https://github.com/maifeeulasad/Image-Scrapper-Python">Image Scraper</a><br/>
+        <a href="https://github.com/maifeeulasad/Google-Image-Downloader">Google Image Downloader</a><br/>
+        <a href="https://github.com/maifeeulasad/OSM-feature-extract-python">OSM Feature Extractor</a><br/>
+        <a href="https://github.com/maifeeulasad/Local-Crawler">Local File Crawler</a><br/>
+        <a href="https://github.com/maifeeulasad/Subtitle-Maker">Subtitle Creator</a><br/>
+        <a href="https://github.com/maifeeulasad/sof-jobs-scraper">Stack Overflow Jobs Scraper</a><br/>
+        <a href="https://github.com/maifeeulasad/scrape-twitter">Twitter Scraper</a><br/>
+        <a href="https://github.com/maifeeulasad/better-soup">Better BeautifulSoup</a><br/>
+        <a href="https://github.com/maifeeulasad/mtree">Better Tree Command</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/gitswitch">Git Branch Switcher</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="System" src="https://img.shields.io/badge/-System-050505?style=flat-square&logo=Linux&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/nvidia-smi-java">NVIDIA SMI Java Interface</a><br/>
+        <a href="https://github.com/maifeeulasad/delete_a_file">Force File Delete Utility</a><br/>
+        <a href="https://github.com/maifeeulasad/Process-Tapping">Process Monitor</a>
+      </td>
     </tr>
   </tbody>
 
@@ -445,7 +582,11 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-5382a1?style=flat-square&logo=Pandas&logoColor=white" />
       </td>
       <td>
-        <a href="https://github.com/maifeeulasad/weather-decision-tree/">A weather analysis project</a>
+        <a href="https://github.com/maifeeulasad/weather-decision-tree/">A weather analysis project</a><br/>
+        <a href="https://github.com/maifeeulasad/news-analysis">News Analysis</a><br/>
+        <a href="https://github.com/maifeeulasad/Bangla-Relative-Frequency">Bangla Text Frequency Analysis</a><br/>
+        <a href="https://github.com/maifeeulasad/IMDB-Movie-Review-Parser-Translator-Bangla">IMDB Review Parser & Translator</a><br/>
+        <a href="https://github.com/maifeeulasad/geopandas2">Geographic Data Analysis</a>
       </td>
     </tr>
     <tr>
@@ -495,6 +636,79 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-050505?style=flat-square&logo=Solidity&logoColor=white" />
       </td>
       <td></td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="2">Educational / Academic Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="University" src="https://img.shields.io/badge/-Academic-007ACC?style=flat-square&logo=academia&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/CSE618-SDAS">Mobile App Development Lab</a><br/>
+        <a href="https://github.com/maifeeulasad/Assignment-Submission-System">Assignment Submission System</a><br/>
+        <a href="https://github.com/maifeeulasad/Hospital-Booking-Site-Assignment-2">Hospital Booking Site</a><br/>
+        <a href="https://github.com/maifeeulasad/dh-assessment">Assessment Project</a><br/>
+        <a href="https://github.com/maifeeulasad/CSE.CU-Questions">CSE CU Question Bank</a><br/>
+        <a href="https://github.com/maifeeulasad/CSECU-repo-curation">CSECU Repository Curation</a><br/>
+        <a href="https://github.com/maifeeulasad/CSE-Semester-6th">6th Semester Projects</a><br/>
+        <a href="https://github.com/maifeeulasad/CSE712-HW-1">Machine Learning Assignment</a><br/>
+        <a href="https://github.com/maifeeulasad/dithering-cg">Computer Graphics Assignment</a><br/>
+        <a href="https://github.com/maifeeulasad/Networking-Python-Education">Network Programming Education</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Educational" src="https://img.shields.io/badge/-Tutorial-28a745?style=flat-square&logo=book&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/reactjs-beginner">React Beginner's Guide</a><br/>
+        <a href="https://github.com/maifeeulasad/Ubuntu-command-handbook">Ubuntu Command Handbook</a><br/>
+        <a href="https://github.com/maifeeulasad/how-do-i-install">Installation Guides</a><br/>
+        <a href="https://github.com/maifeeulasad/es6-go-through">ES6 Learning Material</a><br/>
+        <a href="https://github.com/maifeeulasad/Graph-in-Python">Graph Implementation in Python</a><br/>
+        <a href="https://github.com/maifeeulasad/Dictionary-Attack">Security Education (Dictionary Attack)</a><br/>
+        <a href="https://github.com/maifeeulasad/codeblocks-ep">Code::Blocks Extensions</a>
+      </td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="2">Miscellaneous / Fun Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Fun" src="https://img.shields.io/badge/-Fun-FF6B6B?style=flat-square&logo=smile&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/Bangladesh-Flag-TeX">Bangladesh Flag in LaTeX</a><br/>
+        <a href="https://github.com/maifeeulasad/hny2022">Happy New Year 2022</a><br/>
+        <a href="https://github.com/maifeeulasad/bucket-list">Personal Bucket List</a><br/>
+        <a href="https://github.com/maifeeulasad/Timeline">Personal Timeline</a><br/>
+        <a href="https://github.com/maifeeulasad/Focus">Focus Application</a><br/>
+        <a href="https://github.com/maifeeulasad/ama">Ask Me Anything</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Collections" src="https://img.shields.io/badge/-Collections-6F42C1?style=flat-square&logo=archive&logoColor=white" />
+      </td>
+      <td>
+        <a href="https://github.com/maifeeulasad/Icon-collection">Icon Collections</a><br/>
+        <a href="https://github.com/maifeeulasad/Blender-Projects">Blender Projects</a><br/>
+        <a href="https://github.com/maifeeulasad/Util">Utility Functions</a><br/>
+        <a href="https://github.com/maifeeulasad/MUA-Share">File Sharing Utility</a><br/>
+        <a href="https://github.com/maifeeulasad/Facebook-Scripts">Facebook Automation Scripts</a><br/>
+        <a href="https://github.com/maifeeulasad/Website-Depth">Website Analysis Tool</a>
+      </td>
     </tr>
   </tbody>
 </table>
