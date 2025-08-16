@@ -7,6 +7,18 @@
  • 🇧🇩-🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩-🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩-🇧🇩 •
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't.
 
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
