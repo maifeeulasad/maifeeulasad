@@ -1,8 +1,9 @@
 name: 'My GitHub ranking generator'
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
   test:
