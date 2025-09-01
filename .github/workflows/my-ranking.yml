@@ -2,7 +2,7 @@ name: 'My GitHub ranking generator'
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
 
 jobs:
   test:
