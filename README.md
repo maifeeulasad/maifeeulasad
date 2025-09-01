@@ -19,6 +19,9 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
+
+<div style="text-align: center;"><img alt="GitHub Ranking" src="output/maifeeulasad-rank-progress.svg" style="width: 100%;" /></div>
+
 If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't.
 
 I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
