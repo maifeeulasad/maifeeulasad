@@ -1,0 +1,38 @@
+name: 'My GitHub ranking generator'
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  test:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Track GitHub User Progress
+        uses: maifeeulasad/my-github-rank@v0.0.11
+        id: tracker
+        with:
+          username: ${{ github.repository_owner }}
+          days: '100'
+          max-commits: '10000'
+          
+      - name: Display Results
+        run: |
+          echo "Country: ${{ steps.tracker.outputs.country }}"
+          echo "${{ steps.tracker.outputs.summary }}"
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push SVG
+        run: |
+          git add -f output/${{ github.repository_owner }}-rank-progress.svg
+          git commit -m "[bot]: update GitHub rank progress SVG - generator" || echo "No changes to commit"
+          git push origin HEAD:main
