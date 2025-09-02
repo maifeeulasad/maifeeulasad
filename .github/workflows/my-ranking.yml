@@ -39,4 +39,4 @@ jobs:
           git add -f output/${{ github.repository_owner }}-rank-progress-dark.svg
           git add -f output/${{ github.repository_owner }}-rank-progress-light.svg
           git commit -m "[bot]: update GitHub rank progress SVG - marketplace" || echo "No changes to commit"
-          git push origin HEAD:main
+          git push origin HEAD:master
