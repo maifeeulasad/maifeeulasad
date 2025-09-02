@@ -20,7 +20,17 @@
 </picture>
 
 
-<div style="text-align: center;"><img alt="GitHub Ranking" src="output/maifeeulasad-rank-progress.svg" style="width: 100%;" /></div>
+<picture style="width: 100%; text-align: center;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="output/maifeeulasad-rank-progress-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="output/maifeeulasad-rank-progress-light.svg"
+  />
+  <img alt="GitHub report card summary" src="output/maifeeulasad-rank-progress-light.svg" />
+</picture>
 
 If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't.
 
