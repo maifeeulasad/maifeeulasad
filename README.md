@@ -43,6 +43,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
         width: 100%;
     }
 </style> -->
+<!--
 
 <table>
   <thead>
@@ -739,6 +740,7 @@ I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dyna
 </table>
 
 </table>
+-->
 
 ### Hackathons List
 
