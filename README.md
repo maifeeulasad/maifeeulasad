@@ -7,7 +7,7 @@
  • 🇧🇩-🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩-🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩-🇧🇩 •
 </p>
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="images/breakout-dark.svg"
@@ -17,10 +17,10 @@
     srcset="images/breakout-light.svg"
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
+</picture> -->
 
 
-<picture style="width: 100%; text-align: center;">
+<!-- <picture style="width: 100%; text-align: center;">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="output/maifeeulasad-rank-progress-dark.svg"
@@ -30,7 +30,7 @@
     srcset="output/maifeeulasad-rank-progress-light.svg"
   />
   <img alt="GitHub report card summary" src="output/maifeeulasad-rank-progress-light.svg" />
-</picture>
+</picture> -->
 
 If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't.
 
